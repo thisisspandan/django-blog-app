@@ -5,7 +5,7 @@
 
  - Clone the repository
  ```sh
- git clone https://github.com/thisisspandan/django-blog-app
+ git clone https://github.com/thisisspandan/django-blog-app.git
  ```
  - Navigate into the repository 
  - Create a Python virtual environment with python 3.6+ version 
